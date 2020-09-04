@@ -33,5 +33,5 @@ cd ~/UGV_navigation_RL/real_test  && python train_human_exp.py
 <img width="640" height="480" src="https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/TD3_curve.png"/>
 
 
-#### Performance Video
-[![CIRL_Youtube]<img width="640" height="480" src="https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/CIRL.png"/>](https://www.youtube.com/watch?v=v1kHIaRd9Rw "CIRL_Youtube")
+#### Performance Video (click the diagram below for playing, the diagram shows us the framework of CIRL)
+[![CIRL_Youtube]<img width="500" height="500" src="https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/CIRL.png"/>](https://www.youtube.com/watch?v=v1kHIaRd9Rw "CIRL_Youtube")
