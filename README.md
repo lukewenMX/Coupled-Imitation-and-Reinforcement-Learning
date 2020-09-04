@@ -30,7 +30,7 @@ cd ~/UGV_navigation_RL/real_test  && python train_human_exp.py
 
 ## Main results
 #### Training Curve
-<img width="480" height="320" src="https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/TD3_curve.png"/>
+<div align=center><img width="480" height="320" src="https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/TD3_curve.png"/>
 
 
 #### Performance Video (click the diagram below for playing, the diagram shows us the framework of CIRL)
