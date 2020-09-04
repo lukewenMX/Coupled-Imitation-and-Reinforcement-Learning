@@ -29,5 +29,7 @@ cd ~/UGV_navigation_RL/train_human_exp  && python train_human_exp1.py
 cd ~/UGV_navigation_RL/real_test  && python train_human_exp.py
 
 ## Main results
-
-![image](https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/Figure_1-1.png) ![image](https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/TD3_curve.png)
+#### Training Curve
+<img width="150" height="150" src="https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/TD3_curve.png"/>
+![image](https://github.com/lukewenMX/Coupled-Imitation-and-Reinforcement-Learning/blob/master/images/TD3_curve.png)
+#### 
