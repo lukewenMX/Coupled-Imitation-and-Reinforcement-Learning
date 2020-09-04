@@ -1,0 +1,8 @@
+prefix=/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/install
+
+Name: hardware_interface
+Description: Description of hardware_interface
+Version: 0.14.2
+Cflags: -I/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/install/include
+Libs: -L/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/install/lib 
+Requires: roscpp

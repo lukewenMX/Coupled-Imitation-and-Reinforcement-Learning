@@ -1,0 +1,8 @@
+prefix=/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/install
+
+Name: catkin_simple
+Description: Description of catkin_simple
+Version: 0.1.1
+Cflags: 
+Libs: -L/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/install/lib 
+Requires: catkin

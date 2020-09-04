@@ -1,0 +1,8 @@
+prefix=/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel
+
+Name: combined_robot_hw_tests
+Description: Description of combined_robot_hw_tests
+Version: 0.14.2
+Cflags: -I/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/src/ros_control/combined_robot_hw_tests/include
+Libs: -L/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/lib -lcombined_robot_hw_tests
+Requires: combined_robot_hw hardware_interface roscpp

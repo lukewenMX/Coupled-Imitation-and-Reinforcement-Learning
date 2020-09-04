@@ -1,0 +1,8 @@
+prefix=/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel
+
+Name: controller_interface
+Description: Description of controller_interface
+Version: 0.14.2
+Cflags: -I/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/src/ros_control/controller_interface/include
+Libs: -L/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/lib 
+Requires: roscpp hardware_interface pluginlib

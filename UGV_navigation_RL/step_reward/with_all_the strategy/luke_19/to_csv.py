@@ -1,0 +1,8 @@
+#! /usr/bin/env python
+import numpy as np 
+import pandas as pd 
+
+txt = np.loadtxt('total_reward_list.txt')
+print(type(txt))
+txtPD = pd.DataFrame(txt)
+txtPD.to_csv("file1.csv",index=True)

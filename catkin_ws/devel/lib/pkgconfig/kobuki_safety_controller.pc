@@ -1,0 +1,8 @@
+prefix=/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel
+
+Name: kobuki_safety_controller
+Description: Description of kobuki_safety_controller
+Version: 0.7.6
+Cflags: -I/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/src/kobuki/kobuki_safety_controller/include
+Libs: -L/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/lib -lkobuki_safety_controller_nodelet
+Requires: roscpp nodelet pluginlib std_msgs geometry_msgs kobuki_msgs yocs_controllers ecl_threads

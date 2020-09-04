@@ -1,0 +1,8 @@
+prefix=/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel
+
+Name: exploration3d_msgs
+Description: Description of exploration3d_msgs
+Version: 0.0.0
+Cflags: -I/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/include
+Libs: -L/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/lib 
+Requires: geometry_msgs

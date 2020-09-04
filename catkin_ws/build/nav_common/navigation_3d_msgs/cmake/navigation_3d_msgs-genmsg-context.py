@@ -1,0 +1,11 @@
+# generated from genmsg/cmake/pkg-genmsg.context.in
+
+messages_str = "/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/src/nav_common/navigation_3d_msgs/msg/NavigationStatus.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/src/nav_common/navigation_3d_msgs/msg/RobotInfo.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/src/nav_common/navigation_3d_msgs/msg/SurfaceMap.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg/PathNavigationAction.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg/PathNavigationActionGoal.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg/PathNavigationActionResult.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg/PathNavigationActionFeedback.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg/PathNavigationGoal.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg/PathNavigationResult.msg;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg/PathNavigationFeedback.msg"
+services_str = ""
+pkg_name = "navigation_3d_msgs"
+dependencies_str = "actionlib_msgs;geometry_msgs;nav_msgs;sensor_msgs;std_msgs;visualization_msgs"
+langs = "gencpp;geneus;genlisp;gennodejs;genpy"
+dep_include_paths_str = "navigation_3d_msgs;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/src/nav_common/navigation_3d_msgs/msg;navigation_3d_msgs;/home/lukewen/gym_gazebo/gym_gazebo/envs/installation/catkin_ws/devel/share/navigation_3d_msgs/msg;actionlib_msgs;/opt/ros/kinetic/share/actionlib_msgs/cmake/../msg;geometry_msgs;/opt/ros/kinetic/share/geometry_msgs/cmake/../msg;nav_msgs;/opt/ros/kinetic/share/nav_msgs/cmake/../msg;sensor_msgs;/opt/ros/kinetic/share/sensor_msgs/cmake/../msg;std_msgs;/opt/ros/kinetic/share/std_msgs/cmake/../msg;visualization_msgs;/opt/ros/kinetic/share/visualization_msgs/cmake/../msg"
+PYTHON_EXECUTABLE = "/usr/bin/python"
+package_has_static_sources = '' == 'TRUE'
+genmsg_check_deps_script = "/opt/ros/kinetic/share/genmsg/cmake/../../../lib/genmsg/genmsg_check_deps.py"

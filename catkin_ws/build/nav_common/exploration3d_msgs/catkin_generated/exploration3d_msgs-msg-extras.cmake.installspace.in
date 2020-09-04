@@ -1,0 +1,2 @@
+set(exploration3d_msgs_MESSAGE_FILES "msg/ExplorationTask.msg;msg/ExplorationTaskUpdate.msg;msg/SurfaceFrontierRepresentative.msg;msg/SurfaceFrontierRepresentatives.msg;msg/FreeSpaceFrontierRepresentative.msg;msg/FreeSpaceFrontierRepresentatives.msg;msg/SurfaceFrontierUpdates.msg")
+set(exploration3d_msgs_SERVICE_FILES "srv/GetSurfaceFrontierRepresentatives.srv;srv/GetFreeSpaceFrontierRepresentatives.srv;srv/GetSurfaceFrontierUpdates.srv")
