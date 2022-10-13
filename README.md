@@ -9,8 +9,8 @@ gazebo 7.0
 
 ## Instruction
 #### 1)To spawn the simulation environment in customized gazebo world, run the following command.
-```sudo cp -r ~/catkin_ws  ./ 
-cd catkin_ws && catkin_make ```
+sudo cp -r ~/catkin_ws  ./ 
+cd catkin_ws && catkin_make
 
 ##### There may require to install some packages specified in the warning info with the following command
 sudo apt-get install ros-kinetic-*
